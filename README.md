@@ -1,3 +1,7 @@
+This code is associated with the paper from  Martinez-Ruiz et al., "Genomic architecture and evolutionary
+antagonism drive allelic expression bias in
+the social supergene of red fire ants". eLife, 2020. http://doi.org/10.7554/eLife.55862
+
 # Scripts for "Genomic architecture and evolutionary conflict drive allele-specific expression in the social supergene of the red fire ant"
 
 Scripts for the generation and analysis of the data used for "Genomic architecture and evolutionary conflict drive allele-specific expression in the social supergene of the red fire ant". The scripts listed here go through all the steps from raw RNAseq data, to read count and analysis of differences in gene expression between social forms and between allele-specific expression in the red fire ant *Solenopsis invicta*.
